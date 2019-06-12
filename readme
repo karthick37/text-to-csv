@@ -1,1 +1,5 @@
-Change the input/output file path every time you run.
+Use Python3
+
+Example
+
+> python3 tsvtocsv.py input_path/input_file_name.txt output_path/output_file_name.csv
